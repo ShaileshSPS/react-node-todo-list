@@ -14,5 +14,7 @@ Commands:
 >npx create-react-app client;
 >cd client;
 
+> create folder components > create files create, edit, list.
+
 >To run client -> npm start;
 >To run server -> nodemon index / node index;
